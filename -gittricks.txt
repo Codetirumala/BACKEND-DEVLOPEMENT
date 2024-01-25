@@ -1,8 +1,8 @@
-//single command
+  //single command
 git add . ; git commit -am "Your commit message" ; git push origin main
 
-
-// shortcut command 
+  
+  // shortcut command 
 git config --global alias.gmp '!f() { git gm "$1" && git push origin main; }; f'
 git gmp " you committed this message"
 
