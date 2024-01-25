@@ -1,5 +1,4 @@
-
-//single command 
+//single command
 git add . ; git commit -am "Your commit message" ; git push origin main
 
 
